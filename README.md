@@ -112,8 +112,6 @@ systemctl start djaod-index.service
 systemctl start djaod-admin.service
 ```
 
-## 视频教程
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116588648928433&bvid=BV1RCLE6SEWY&cid=38397151746&p=1" width="100%" height="450"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 > **部署极简**：上传源码 → 配置数据库 → 绑定域名 → 即可上线运营。
 
