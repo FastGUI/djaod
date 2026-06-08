@@ -1,7 +1,6 @@
 <div align="center">
+
 ![DJAOD Logo](https://img.alicdn.com/bao/uploaded/i2/O1CN01T40tdG24PTHFqFNIA_!!4611686018427384439-2-rate.png)
-
-
 
 # 🎵 DJAOD 电音舞曲建站系统
 
