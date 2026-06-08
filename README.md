@@ -1,8 +1,7 @@
 <div align="center">
 
-<video autoplay muted playsinline loop width="100%">
-  <source src="https://cloud.video.taobao.com/vod/dPjFFLMoElyB6nKDJ1mMvqjUQd81tek835xc97CPgmo.mp4" type="video/mp4">
-</video>
+![DJAOD Logo]([https://img.alicdn.com/imgextra/i1/4611686018427384439/O1CN01BT6pgu24PTIa5WbaS_!!4611686018427384439-2-rate.png)](https://img.alicdn.com/bao/uploaded/i2/O1CN01T40tdG24PTHFqFNIA_!!4611686018427384439-2-rate.png)
+
 
 # 🎵 DJAOD 电音舞曲建站系统
 
