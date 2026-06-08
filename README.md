@@ -1,6 +1,8 @@
 <div align="center">
 
-![DJAOD Logo](https://img.alicdn.com/imgextra/i1/4611686018427384439/O1CN01BT6pgu24PTIa5WbaS_!!4611686018427384439-2-rate.png)
+<video autoplay muted playsinline loop width="100%">
+  <source src="https://cloud.video.taobao.com/vod/dPjFFLMoElyB6nKDJ1mMvqjUQd81tek835xc97CPgmo.mp4" type="video/mp4">
+</video>
 
 # 🎵 DJAOD 电音舞曲建站系统
 
@@ -84,7 +86,6 @@
 | ---- | ---- | ---- |
 | **CNDJPooL** | 一站式 DJ 服务 | [jcdjpool.com](https://www.jcdjpool.com/) |
 | **海螺电音** | 音乐素材 / 采样包 | [hlydjs.com](https://www.hlydjs.com/) |
-| **怪兽电音** | 婚礼 DJ 音乐 | — |
 | **老虎电音网** | 原创电音 / 夜店歌曲 | [pthedm.cn](https://www.pthedm.cn/) |
 | **CPUDJ 电音网** | 酒吧包房舞曲 | [cpudj.com](https://www.cpudj.com/) |
 | **DJMIX** | 电音厂牌 SET 发布 | [djmix.cn](https://www.djmix.cn/) |
