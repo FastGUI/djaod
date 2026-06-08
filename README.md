@@ -93,16 +93,27 @@
 
 ## 🚀 快速开始
 
-```bash
-# 环境要求
-Node.js >= v22.20.0
-
-# 前往官网下载安装包
-# https://www.djaod.com/download
-
-# 或查看安装文档
-# https://www.djaod.com/docs
+```sh
+curl -sL https://download.djaod.com/install.sh -o install.sh && chmod +x install.sh && ./install.sh
 ```
+
+- 建议新手使用宝塔面板 + 一键安装脚本
+- 先在宝塔安装好 `Nginx`、 `Nodejs` 和 `Redis`，但是`MongoDB`不要再宝塔面板安装，因为无法配置集群（程序需要）！
+- 等执行脚本全部通过后，再在宝塔面板中创建node站点
+- 在node站点管理 以`“默认项目“` 创建 前台站点 ，绑定入口为 `/index.js`，绑定命令为：`npm run index` 启动端口为`3080`
+- 在node站点管理 以`“默认项目“` 创建 后台站点 ，绑定入口为 `/admin.js`，绑定命令为：`npm run admin` 启动端口为`3000`
+- 注意：在宝塔面板创建站点后默认会启动网站，我们要先给他关闭，然后使用命令进行启动站点
+- 启动 前台站点:
+```sh
+systemctl start djaod-index.service
+```
+- 启动 后台站点：
+```sh
+systemctl start djaod-admin.service
+```
+
+## 视频教程
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116588648928433&bvid=BV1RCLE6SEWY&cid=38397151746&p=1" width="100%" height="450"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 > **部署极简**：上传源码 → 配置数据库 → 绑定域名 → 即可上线运营。
 
